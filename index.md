@@ -1,4 +1,5 @@
-## Mobile Access Bandwidth in Practice: \\ Measurement, Analysis, and Implications
+## Mobile Access Bandwidth in Practice:
+## Measurement, Analysis, and Implications
 
 You can use the [editor on GitHub](https://github.com/mobilebandwidth/mobilebandwidth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
