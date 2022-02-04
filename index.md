@@ -19,7 +19,7 @@ To effectively characterize mobile access bandwidth in the wild, we work with a 
 Our analysis presents a surprising and frustrating fact---in the past two years, the average WiFi
 bandwidth remains largely unchanged, while the average 4G/5G bandwidth decreases remarkably. Our analysis further reveals the root causes---the bottlenecks in the underlying infrastructure (e.g., devices and wired Internet access) and side effects of aggressively migrating radio resources from
 4G to 5G---with implications on closing the technology gaps. Additionally, our analysis provides insights on building ultrafast, ultra-light bandwidth testing services (BTSes) at scale.
-Our new design dramatically reduces the test time of the commercial BTS app from 10 seconds to 1 second on average, with a 15x reduction on the backend cost.
+Our new design dramatically reduces the test time of the commercial BTS app from 10 seconds to 1 second on average, with a 15$\times$ reduction on the backend cost.
 
 ### Code and Data Releases
 Coming in a few days.
