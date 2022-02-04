@@ -1,38 +1,13 @@
-## Mobile Access Bandwidth in Practice:
-## Measurement, Analysis, and Implications
+## Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications
 
-You can use the [editor on GitHub](https://github.com/mobilebandwidth/mobilebandwidth.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Recent advances in mobile technologies such as 5G and WiFi 6E do not seem to deliver the promised mobile access bandwidth.
+To effectively characterize mobile access bandwidth in the wild, we work with a major commercial mobile bandwidth testing app to analyze mobile access bandwidths of 3.54M end users based on fine-grained measurement and diagnostic information.
+Our analysis presents a surprising and frustrating fact -- in the past two years, the average WiFi
+bandwidth remains largely unchanged, while the average 4G/5G bandwidth decreases remarkably. Our analysis further reveals the root causes -- the bottlenecks in the underlying infrastructure (e.g., devices and wired Internet access) and side effects of aggressively migrating radio resources from
+4G to 5G -- with implications on closing the technology gaps. Additionally, our analysis provides insights on building ultrafast, ultra-light bandwidth testing services (BTSes) at scale.
+Our new design dramatically reduces the test time of the commercial BTS app from 10 seconds to 1 second on average, with a 15 $\times$ reduction on the backend cost.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mobilebandwidth/mobilebandwidth.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Code and Data Release
+Coming in a few days.
