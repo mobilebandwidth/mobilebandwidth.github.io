@@ -12,7 +12,6 @@
 
 # Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications
 
-![version](https://img.shields.io/badge/Version-Beta-yellow "Beta")
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
 
