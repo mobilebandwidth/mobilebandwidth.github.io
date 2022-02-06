@@ -12,17 +12,17 @@
 
 ## Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications
 
-### Introduction
-
-Recent advances in mobile technologies such as 5G and WiFi 6E do not seem to deliver the promised mobile access bandwidth.
-To effectively characterize mobile access bandwidth in the wild, we work with a major commercial mobile bandwidth testing app to analyze mobile access bandwidths of 3.54M end users based on fine-grained measurement and diagnostic information.
-Our analysis presents a surprising and frustrating fact---in the past two years, the average WiFi
-bandwidth remains largely unchanged, while the average 4G/5G bandwidth decreases remarkably. Our analysis further reveals the root causes---the bottlenecks in the underlying infrastructure (e.g., devices and wired Internet access) and side effects of aggressively migrating radio resources from
-4G to 5G---with implications on closing the technology gaps. Additionally, our analysis provides insights on building ultrafast, ultra-light bandwidth testing services (BTSes) at scale.
+Our study focuses on characterizing mobile access bandwidth in the wild. We work with a major commercial mobile bandwidth testing (BTS) app to analyze mobile access bandwidths of 3.54M end users based on fine-grained measurement and diagnostic information collected by our cross-layer and cross-technology measurement tool.
+Additionally, our analysis provides insights on building ultrafast, ultra-light bandwidth testing services (BTSes) called Swiftest at scale.
 Our new design dramatically reduces the test time of the commercial BTS app from 10 seconds to 1 second on average, with a 15$\times$ reduction on the backend cost.
+This repository contains our implementation of the cross-layer and cross-technology measurement tool, our released data, and our implementation of Swiftest.
 
-### Data Release
+### Cross-Layer and Cross-Technology Measurement Tool
 Coming in a few days.
 
-### Codebase Organization
+### Data Release
+We have released a portion of data (with proper anonymization) for references (for detailed data, please click here).
+As to the full dataset, we are still in discussion with the authority to what extend can it be released.
+
+### Swiftest: Ultra-Fast, Ultra-Light BTS
 Coming in a few days.
