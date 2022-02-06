@@ -1,6 +1,6 @@
 ## Data Release
 
-We currently release a portion of data (with proper anonymization) for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, WiFi-4.csv, WiFi-5.csv, and WiFi-6.csv, respectively. We list the specific information we collect coupled with the regarding description for each access technology as follows.
+We currently release a portion of data (with proper anonymization) for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively. We list the specific information we collect coupled with the regarding description for each access technology as follows.
 
 ### 4G.csv
 
@@ -59,7 +59,7 @@ We currently release a portion of data (with proper anonymization) for reference
 | cell_ssRsrq    | SS reference signal received quality                         |
 | cell_ssSinr    | SS signal-to-noise and interference ratio                    |
 
-### WiFi-4/WiFi-5/WiFi-6.csv
+### wifi4/wifi5/wifi6.csv
 
 | Information                      | Description                                                  |
 | -------------------------------- | ------------------------------------------------------------ |
