@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">DataCollector</string>
-
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
-
-    <string name="waiting">Waiting</string>
-    <string name="collecting">Collecting</string>
-</resources>
