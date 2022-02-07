@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FastBTS_UDP</string>
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+    <string name="testing">Testing</string>
+</resources>
