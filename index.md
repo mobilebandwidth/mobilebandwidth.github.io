@@ -10,8 +10,9 @@
     </script>
 </head>
 
-<center><font color=green size=40> Mobile Access Bandwidth in Practice: </font></center>
-<center><font color=green size=30> Measurement, Analysis, and Implications </font></center>
+<center><font color=green size=45> Mobile Access Bandwidth in Practice: </font></center>
+
+<center><font color=green size=25> Measurement, Analysis, and Implications </font></center>
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
