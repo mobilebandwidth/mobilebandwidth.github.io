@@ -26,8 +26,8 @@
 
 ## Introduction
 Our study focuses on characterizing mobile access bandwidth in the wild. We work with a major commercial mobile bandwidth testing (BTS) app to analyze mobile access bandwidths of 3.54M end users based on fine-grained measurement and diagnostic information collected by our cross-layer and cross-technology measurement tool.
-Additionally, our analysis provides insights on building ultrafast, ultra-light bandwidth testing services (BTSes) called Swiftest at scale.
-Our new design dramatically reduces the test time of the commercial BTS app from 10 seconds to 1 second on average, with a 15$\times$ reduction on the backend cost.
+Besides, our analysis provides insights on building an ultra-fast, ultra-light bandwidth testing service (BTS) called Swiftest at scale.
+Swiftest dramatically reduces the test time of the commercial BTS app from 10 $sec$ to 1 $sec$ on average, with a 15$\times$ reduction on the backend cost.
 This repository contains our implementation of the cross-layer and cross-technology measurement tool, our released data, and our implementation of Swiftest.
 
 ## Data Release
