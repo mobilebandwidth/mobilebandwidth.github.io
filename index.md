@@ -11,8 +11,7 @@
 </head>
 
 <center style="font-size:45px;color:green;line-height:50px"> Mobile Access Bandwidth in Practice: </center>
-<center style="font-size:25px;color:green;line-height:50px"> Measurement, Analysis, and Implications </center>
-<br/>
+<center style="font-size:30px;color:green;line-height:50px"> Measurement, Analysis, and Implications </center>
 
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
