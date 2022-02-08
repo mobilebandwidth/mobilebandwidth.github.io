@@ -11,7 +11,7 @@
 </head>
 
 <center><font color=green size=45> Mobile Access Bandwidth in Practice: </font></center>
-## <center>Measurement, Analysis, and Implications</center>
+## <center><font color=green size=45>Measurement, Analysis, and Implications</font></center>
 
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
@@ -45,7 +45,7 @@ Our data include two parts: a four-month fine-grained dataset, and a two-year co
 | `network_type`               | Network type                                                 |
 | `os_version`                 | Android version                                              |
 | `user_isp_id`                | ISP id                                                       |
-| `user_region_id`             | Region (Province) of a user                                  |
+| `user_region_id`             | Region (province) of a user                                  |
 | `user_city_id`               | City of a user                                               |
 | `bandwidth_Mbps`             | Bandwidth testing result in Mbps                             |
 | `cell_asuLevel`              | LTE signal strength in ASU value                             |
@@ -75,7 +75,7 @@ Our data include two parts: a four-month fine-grained dataset, and a two-year co
 | `network_type`   | Network type                                                 |
 | `os_version`     | Android version                                              |
 | `user_isp_id`    | ISP id                                                       |
-| `user_region_id` | Region (Province) of a user                                  |
+| `user_region_id` | Region (province) of a user                                  |
 | `user_city_id`   | City of a user                                               |
 | `bandwidth_Mbps` | Bandwidth testing result in Mbps                             |
 | `cell_asuLevel`  | LTE signal strength in ASU value                             |
@@ -102,7 +102,7 @@ Our data include two parts: a four-month fine-grained dataset, and a two-year co
 | `network_type`                     | Network type                                                 |
 | `os_version`                       | Android version                                              |
 | `user_isp_id`                      | ISP id                                                       |
-| `user_region_id`                   | Region (Province) of a user                                  |
+| `user_region_id`                   | Region (province) of a user                                  |
 | `user_city_id`                     | City of a user                                               |
 | `bandwidth_Mbps`                   | Bandwidth testing result in Mbps                             |
 | `wifi_rssi`                        | The received signal strength indicator of the current 802.11 network in dBm |
