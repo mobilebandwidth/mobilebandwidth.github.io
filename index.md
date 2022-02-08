@@ -10,8 +10,8 @@
     </script>
 </head>
 
-<font style="font-size:45;color:green;line-height:50px"><center> Mobile Access Bandwidth in Practice: </center></font>
-<font style="font-size:25;color:green;line-height:50px"><center> Measurement, Analysis, and Implications </center></font>
+<center style="font-size:45px;color:green;line-height:50px"> Mobile Access Bandwidth in Practice: </center>
+<center style="font-size:25px;color:green;line-height:50px"> Measurement, Analysis, and Implications </center>
 <br/>
 
 
