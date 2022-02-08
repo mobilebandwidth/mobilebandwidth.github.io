@@ -16,7 +16,6 @@
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
-
 ## Table of Contents
 [Introduction](#introduction)
 
