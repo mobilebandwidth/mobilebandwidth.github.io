@@ -10,8 +10,8 @@
     </script>
 </head>
 
-<center style="font-size:45px;color:green;line-height:50px"> Mobile Access Bandwidth in Practice: </center>
-<center style="font-size:30px;color:green;line-height:200px"> Measurement, Analysis, and Implications </center>
+<center style="font-size:45px;color:green;line-height:40px"> Mobile Access Bandwidth in Practice: </center>
+<center style="font-size:30px;color:green;line-height:70px"> Measurement, Analysis, and Implications </center>
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
@@ -31,7 +31,7 @@ Our new design dramatically reduces the test time of the commercial BTS app from
 This repository contains our implementation of the cross-layer and cross-technology measurement tool, our released data, and our implementation of Swiftest.
 
 ## Data Release
-Our data include two parts: a four-month fine-grained dataset, and a two-year coarse-grained dataset (provided by BTS-APP operation team). Currently, we have released a portion of the representative sample data (with proper anonymization) belonging to the first dataset for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the remainder, we are still in discussion with the authority to what extend can it be released.
+Our data include two parts: a four-month fine-grained dataset and a two-year coarse-grained dataset (provided by BTS-APP operation team). Currently, we have released a portion of the representative sample data (with proper anonymization) belonging to the first dataset for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the remainder, we are still in discussion with the authority to what extend can it be released.
 
 ### 4G.csv
 
