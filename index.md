@@ -10,7 +10,8 @@
     </script>
 </head>
 
-# Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications
+<center> # Mobile Access Bandwidth in Practice: </center>
+<center> ## Measurement, Analysis, and Implications </center>
 
 ![license](https://img.shields.io/badge/GuestOS-Androidx86-green "Android")
 ![license](https://img.shields.io/badge/Licence-Apache%202.0-blue.svg "Apache")
@@ -37,7 +38,7 @@ As to the full dataset, we are still in discussion with the authority to what ex
 ## Implementation of Cross-Layer and Cross-Technology Measurement Tool
 We have released the project of our cross-layer and cross-technology (CLCT) measurement tool [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/CLCT-Measurement). Note that this project can be directly compiled and run using the [`Android Studio`](https://developer.android.com/studio) platform with the support of [`Java SE Development Kit 8`](https://www.oracle.com/java/technologies/downloads/).
 
-## Implementation of Swiftest
+## Implementation of New Bandwidth Testing Service (Swiftest)
 Currently we are scrutinizing the codebase to avoid possible anonymity violation. To this end, we will release Swiftest's source code in a *module-by-module manner* as soon as we have finished examining a module and acquire its release permission from the authority. The codebase of Swiftest is organized as follows.
 ```
 Swiftest
