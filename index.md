@@ -31,7 +31,13 @@ Swiftest dramatically reduces the test time of the commercial BTS app from 10 $s
 This repository contains our implementation of the cross-layer and cross-technology measurement tool, our released data, and our implementation of Swiftest.
 
 ## Data Release
-The involved data include a four-month fine-grained dataset and a two-year coarse-grained dataset (provided by BTS-APP operation team). Currently, we have released a portion of the representative sample data (with proper anonymization) belonging to the former dataset for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the remainder, we are still in discussion with the authority to what extend can it be released.
+The involved data include
+
+1) a four-month fine-grained dataset (collected by us), 
+
+2) a two-year coarse-grained dataset (provided by BTS-APP operation team). 
+
+Currently, we have released a portion of the representative sample data (with proper anonymization) belonging to the former dataset for references, including the fine-grained collected data of 50K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (10K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the remainder, we are still in discussion with the authority to what extend can it be released.
 
 ### 4G.csv
 
