@@ -147,7 +147,7 @@ After the publication of our paper, we have found out some bugs in the published
 | Location                      | Original Version                | Corrected Version  | Bug Type  | Contributor|
 | -------------------------------- | -------------------------------- |
 | Section 3.3, last paragraph   | In comparison, for 4G networks, we find that the average bandwidth at different times of the days is in general **<fontcolor='red'>positively</font>** correlated
-with the number of tests conducted by users. | In comparison, for 4G networks, we find that the average bandwidth at different times of the days is in general **<fontcolor='red'>negatively</font>** correlated
+with the number of tests conducted by users. | In comparison, for 4G networks, we find that the average bandwidth at different times of the days is in general **<fontcolor='blue'>negatively</font>** correlated
 with the number of tests conducted by users. | Typo | ??? |
 
 
