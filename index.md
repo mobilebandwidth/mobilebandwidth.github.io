@@ -25,6 +25,8 @@
 
 [Implementation of New Bandwidth Testing Service (Swiftest)](#implementation-of-new-bandwidth-testing-service-swiftest)
 
+[Correction of Bugs in Our Paper](#correction-of-bugs-in-our-paper)
+
 ## Introduction
 Our study focuses on characterizing mobile access bandwidth in the wild. We work with a major commercial mobile bandwidth testing (BTS) app to analyze mobile access bandwidths of 3.54M end users based on fine-grained measurement and diagnostic information collected by our cross-layer and cross-technology measurement tool.
 Besides, our analysis provides insights on building an ultra-fast, ultra-light bandwidth testing service (BTS) called Swiftest at scale.
@@ -138,3 +140,15 @@ Swiftest
 
 
 The released part can be found [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/Swiftest).
+
+## Correction of Bugs in Our Paper
+After the publication of our paper, we have found out some bugs in the published version under the help of several warm-hearted researchers. We list the details below.
+
+| Location                      | Original Version                | Corrected Version  | Bug Type  | Contributor|
+| -------------------------------- | -------------------------------- |
+| Section 3.3, last paragraph   | In comparison, for 4G networks, we find that the average bandwidth at different times of the days is in general **<fontcolor='red'>positively</font>** correlated
+with the number of tests conducted by users. | In comparison, for 4G networks, we find that the average bandwidth at different times of the days is in general **<fontcolor='red'>negatively</font>** correlated
+with the number of tests conducted by users. | Typo | ??? |
+
+
+Manys thanks to all the contributors' help and contributions!
